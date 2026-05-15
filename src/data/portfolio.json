@@ -1,34 +1,34 @@
 [
   {
-    "title": "Brand Identity & Visual System",
-    "category": "Branding",
-    "description": "A complete brand overhaul for a growing company — logo, typography, color system, and a style guide built to scale. Designed for flexibility without sacrificing cohesion.",
+    "title": "Construction Analytics — Taison Group Ltd",
+    "category": "Business Intelligence",
+    "description": "Analyzed project construction data from 15+ active sites using SQL and Python, tracking budgets, timelines, and resource allocations. Automated Power BI dashboards for materials inventory, labor productivity, and equipment utilization. Monitored KPIs daily and delivered root cause analysis to prevent budget overruns.",
     "images": [
-      "/images/portfolio/project-1a.jpg",
-      "/images/portfolio/project-1b.jpg",
-      "/images/portfolio/project-1c.jpg"
+      "/images/portfolio/taison-1.png",
+      "/images/portfolio/taison-2.png",
+      "/images/portfolio/taison-3.png"
     ],
-    "slides": ["Brand Overview", "Style Guide Spread", "Product Shot"]
+    "slides": ["Dashboard Overview", "KPI Tracking View", "Resource Allocation Report"]
   },
   {
-    "title": "Interactive Web Experience",
-    "category": "Web Design",
-    "description": "A custom-built site blending editorial layout with smooth scroll interactions and motion. Designed in Figma, built in code, and optimized down to the frame.",
+    "title": "AI Model Evaluation — Turing",
+    "category": "AI Evaluation",
+    "description": "Performed side-by-side evaluations on AI-generated outputs, assessing quality, accuracy, and relevance against established guidelines. Conducted fact-checking to identify inconsistencies and provided detailed, well-structured justifications to support evaluation decisions.",
     "images": [
-      "/images/portfolio/project-2a.jpg",
-      "/images/portfolio/project-2b.jpg",
-      "/images/portfolio/project-2c.jpg"
+      "/images/portfolio/turing-1.png",
+      "/images/portfolio/turing-2.png"
     ],
-    "slides": ["Homepage Figma Design", "Homepage Complete", "Second Phase app page"]
+    "slides": ["Evaluation Workflow", "Quality Assessment Framework"]
   },
   {
-    "title": "Short Film & Motion Piece",
-    "category": "Video",
-    "description": "A two-minute visual essay combining original footage, 3D elements, and motion design. Shot, edited, and scored independently — start to finish in three weeks.",
+    "title": "Global Labour Market Analytics Dashboard",
+    "category": "Data Visualization",
+    "description": "Designed and published an end-to-end analytics pipeline using the ILO ILOEST dataset covering 200+ countries and 23 years of modelled labor market data. Built interactive Power BI dashboards for stakeholder-ready reporting on global workforce trends using DAX and M Language.",
     "images": [
-      "/images/portfolio/project-3a.jpg",
-      "/images/portfolio/project-3b.jpg"
+      "/images/portfolio/labour-1.png",
+      "/images/portfolio/labour-2.png",
+      "/images/portfolio/labour-3.png"
     ],
-    "slides": ["Opening Scene", "Modeling Sequence", "Developing Music for Documentary"]
+    "slides": ["Global Overview Dashboard", "Country-Level Drill Down", "Time-Series Trend Analysis"]
   }
 ]

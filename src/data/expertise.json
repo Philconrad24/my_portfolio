@@ -1,22 +1,22 @@
 [
   {
     "key": "sysadmin",
-    "title": "Design & Art Direction",
-    "description": "Visual identity, layout, typography, and the aesthetic decisions that make people stop and look twice. Whether print or screen, the goal is the same — work that holds up."
+    "title": "Data Analysis & Engineering",
+    "description": "Building end-to-end data pipelines using Python and SQL. Experienced in data preparation, cleaning, feature engineering, and transforming raw datasets into reliable, high-quality inputs for analytics and machine learning."
   },
   {
     "key": "webdev",
-    "title": "Web Design & Development",
-    "description": "From wireframe to deployment — building sites and apps that look considered, perform well, and give visitors exactly what they came for."
+    "title": "Machine Learning & AI",
+    "description": "Designing and deploying ML models across the full lifecycle — from data preparation and model training to inference, debugging, and evaluation. Skilled in Scikit-learn, TensorFlow, and predictive modeling."
   },
   {
     "key": "freelance",
-    "title": "Creative Freelance",
-    "description": "Independent project work in photography, video, 3D, illustration, or wherever the brief leads. Direct to work with, flexible, and invested in the outcome."
+    "title": "Business Intelligence & Visualization",
+    "description": "Developing interactive Power BI and Tableau dashboards that translate complex data into clear stakeholder-ready insights. Experienced in DAX, M Language, KPI tracking, and automated reporting."
   },
   {
     "key": "leadership",
-    "title": "Collaboration & Direction",
-    "description": "Working alongside teams, clients, and stakeholders to take a project from idea to shipped — clear communication, honest timelines, and work that actually gets done."
+    "title": "AI Evaluation & Quality Assurance",
+    "description": "Assessing the accuracy, reasoning, and quality of AI-generated outputs against established guidelines. Skilled in side-by-side model evaluations, fact-checking, and delivering structured, well-justified assessments."
   }
 ]

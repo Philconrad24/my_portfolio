@@ -1,59 +1,47 @@
 [
   {
-    "title": "Design & Illustration",
+    "title": "Programming & Analytics",
     "skills": [
-      { "name": "Figma", "logo": "/images/icons/devicons/figma-original.svg" },
-      { "name": "Photoshop", "logo": "/images/icons/devicons/photoshop-line.svg" },
-      { "name": "Illustrator", "logo": "/images/icons/devicons/illustrator-line.svg" },
-      { "name": "Blender", "logo": "/images/icons/devicons/blender-original.svg" },
-      { "name": "Sketch", "logo": "/images/icons/devicons/sketch-original.svg" }
+      { "name": "Python", "logo": "/images/icons/devicons/python-original.svg" },
+      { "name": "NumPy", "logo": "/images/icons/devicons/numpy-original.svg" },
+      { "name": "Flask", "logo": "/images/icons/devicons/flask-original.svg" },
+      { "name": "Jupyter", "logo": "/images/icons/devicons/jupyter-original-wordmark.svg" }
     ]
   },
   {
-    "title": "Web & Frontend",
+    "title": "Data & Databases",
     "skills": [
-      { "name": "HTML5", "logo": "/images/icons/devicons/html5-original.svg" },
-      { "name": "CSS3", "logo": "/images/icons/devicons/css3-original.svg" },
-      { "name": "JavaScript", "logo": "/images/icons/devicons/javascript-original.svg" },
-      { "name": "TypeScript", "logo": "/images/icons/devicons/typescript-original.svg" },
-      { "name": "React", "logo": "/images/icons/devicons/react-original.svg" },
-      { "name": "Bootstrap", "logo": "/images/icons/devicons/bootstrap-original-wordmark.svg" }
-    ]
-  },
-  {
-    "title": "Motion, 3D & Video",
-    "skills": [
-      { "name": "Three.js", "logo": "/images/icons/devicons/threejs-original.svg" },
-      { "name": "After Effects", "logo": "/images/icons/devicons/aftereffects-plain.svg" },
-      { "name": "Premiere Pro", "logo": "/images/icons/devicons/premierepro-plain.svg" },
-      { "name": "Photoshop", "logo": "/images/icons/devicons/photoshop-original.svg" }
-    ]
-  },
-  {
-    "title": "Platforms & Publishing",
-    "skills": [
-      { "name": "WordPress", "logo": "/images/icons/devicons/wordpress-original.svg" },
-      { "name": "Drupal", "logo": "/images/icons/devicons/drupal-original-wordmark.svg" },
-      { "name": "Hugo", "logo": "/images/icons/devicons/hugo-original-wordmark.svg" },
-      { "name": "AWS", "logo": "/images/icons/devicons/amazonwebservices-original-wordmark.svg" }
-    ]
-  },
-  {
-    "title": "Dev & Workflow Tools",
-    "skills": [
-      { "name": "Git", "logo": "/images/icons/devicons/git-original-wordmark.svg" },
-      { "name": "GitHub", "logo": "/images/icons/devicons/github-original.svg" },
-      { "name": "Bash", "logo": "/images/icons/devicons/bash-original.svg" },
-      { "name": "Markdown", "logo": "/images/icons/devicons/markdown-original.svg" }
-    ]
-  },
-  {
-    "title": "Data & Infrastructure",
-    "skills": [
+      { "name": "MySQL", "logo": "/images/icons/devicons/mysql-original-wordmark.svg" },
+      { "name": "PostgreSQL", "logo": "/images/icons/devicons/postgresql-original.svg" },
       { "name": "SQLite", "logo": "/images/icons/devicons/sqlite-original-wordmark.svg" },
-      { "name": "Nginx", "logo": "/images/icons/devicons/nginx-original.svg" },
+      { "name": "Google BigQuery", "logo": "/images/icons/devicons/google-original.svg" }
+    ]
+  },
+  {
+    "title": "Business Intelligence",
+    "skills": [
+      { "name": "Power BI", "logo": "/images/icons/devicons/microsoftsqlserver-plain-wordmark.svg" },
+      { "name": "Tableau", "logo": "/images/icons/devicons/apache-original-wordmark.svg" },
+      { "name": "Microsoft Excel", "logo": "/images/icons/devicons/windows8-original.svg" },
+      { "name": "Google Sheets", "logo": "/images/icons/devicons/google-original.svg" }
+    ]
+  },
+  {
+    "title": "Machine Learning & AI",
+    "skills": [
+      { "name": "TensorFlow", "logo": "/images/icons/devicons/tensorflow-original.svg" },
+      { "name": "Scikit-learn", "logo": "/images/icons/devicons/python-original.svg" },
+      { "name": "OpenCV", "logo": "/images/icons/devicons/opencv-original.svg" },
+      { "name": "Pandas", "logo": "/images/icons/devicons/pandas-original.svg" }
+    ]
+  },
+  {
+    "title": "Tools & Platforms",
+    "skills": [
+      { "name": "GitHub", "logo": "/images/icons/devicons/github-original.svg" },
+      { "name": "VS Code", "logo": "/images/icons/devicons/vscode-original.svg" },
       { "name": "Docker", "logo": "/images/icons/devicons/docker-original-wordmark.svg" },
-      { "name": "Prometheus", "logo": "/images/icons/devicons/prometheus-original-wordmark.svg" }
+      { "name": "Bash", "logo": "/images/icons/devicons/bash-original.svg" }
     ]
   }
 ]

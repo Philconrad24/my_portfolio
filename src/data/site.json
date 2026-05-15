@@ -1,56 +1,51 @@
 {
-  "title": "Your Name Here | Creative Portfolio",
-  "description": "Portfolio of a designer, developer, and creator. Browse work spanning web, visual design, 3D, video, and more — then reach out.",
-  "ogSiteName": "Portfolio",
-  "shortName": "FOLIO",
-  "tagline": "Designing experiences · Building products · Telling stories",
+  "title": "Phil Conrad Kirundi | Data Scientist & AI Specialist",
+  "description": "Portfolio of a Data Scientist and AI Evaluation Specialist based in Nairobi, Kenya. Explore projects in machine learning, Power BI dashboards, SQL analytics, and AI model evaluation.",
+  "ogSiteName": "Phil Kirundi Portfolio",
+  "shortName": "PCK",
+  "tagline": "Analysing data · Building models · Driving insights",
   "themeStorageKey": "portfolio-theme",
-  "web3formsKey": "YOUR_WEB3FORMS_KEY_HERE",
+  "web3formsKey": "a1c03020-5654-4d49-82e7-4844bbeb5565",
   "footerAttribution": {
-    "builder": "Built with this open-source template",
-    "builderUrl": "https://github.com/your-github-handle",
-    "host": "Hosted on your platform of choice",
-    "hostUrl": "https://yourdomain.com"
+    "builder": "Built with astro-portfolio-theme",
+    "builderUrl": "https://github.com/MarcusHoltz/astro-portfolio-theme",
+    "host": "Hosted on Vercel",
+    "hostUrl": "https://vercel.com"
   },
   "retroTvCount": 21,
   "seoKeywords": [
-    "Creative Portfolio",
-    "Web Designer",
-    "Visual Artist",
-    "UI/UX Design",
-    "Front-End Developer",
-    "3D Artist",
-    "Motion Graphics",
-    "Brand Identity",
-    "Freelance Designer",
-    "Video Editor",
-    "Photography",
-    "Illustration",
-    "Digital Art",
-    "Graphic Design",
-    "Interactive Design",
-    "Product Design",
-    "Creative Direction",
-    "Art Direction",
-    "Full-Stack Developer",
-    "Animator",
-    "Typographer",
-    "Storyteller",
+    "Data Scientist",
+    "Data Analyst",
+    "AI Evaluation Specialist",
+    "Machine Learning Engineer",
+    "Python Developer",
+    "Power BI Developer",
+    "SQL Analyst",
+    "Business Intelligence",
+    "Data Visualization",
+    "Tableau",
+    "TensorFlow",
+    "Scikit-learn",
+    "Predictive Modeling",
+    "Statistical Analysis",
+    "ETL Pipeline",
+    "AI Data Trainer",
+    "Nairobi Kenya",
+    "Freelance Data Analyst",
     "Open to Work",
-    "Available for Projects",
-    "Design Systems",
-    "Visual Storytelling"
+    "Google Data Analytics",
+    "DataCamp Certified",
+    "Moringa School",
+    "USIU Graduate",
+    "Data Storytelling",
+    "Dashboard Design",
+    "BigQuery",
+    "PostgreSQL"
   ],
   "navExternal": [
     {
-      "label": "Blog",
-      "desc": "Writing on design, process, and what I'm learning",
-      "personalKey": "blog",
-      "urlTemplate": "{value}"
-    },
-    {
       "label": "GitHub",
-      "desc": "Open-source work and side experiments",
+      "desc": "Open-source work and data projects",
       "personalKey": "github",
       "urlTemplate": "https://github.com/{value}"
     },
@@ -75,40 +70,40 @@
   ],
   "serviceSites": [
     {
-      "badge": "Client Work",
+      "badge": "Analytics",
       "badgeColor": "#6366f1",
       "cardAccent": "#6366f1",
       "glowColor": "rgba(99, 102, 241, 0.12)",
       "iconBg": "rgba(99, 102, 241, 0.1)",
       "iconBorder": "rgba(99, 102, 241, 0.18)",
-      "iconType": "web",
-      "name": "YourStudio.co",
-      "url": "https://yourstudio.co",
-      "description": "A dedicated space for client work — branding, web builds, campaigns, and everything in between. Full-service creative from concept through delivery, built on clear communication and no surprises.",
+      "iconType": "chart-bar",
+      "name": "Data Analysis & Dashboards",
+      "url": "mailto:Philconrad24@gmail.com",
+      "description": "End-to-end data analysis services — from raw data ingestion and cleaning to interactive Power BI and Tableau dashboards. I help businesses turn messy data into clear, stakeholder-ready insights.",
       "features": [
-        "Brand Identity & Visual Systems",
-        "Web Design & Development",
-        "Campaign Creative & Direction"
+        "Power BI & Tableau Dashboard Development",
+        "SQL & Python Data Pipeline Automation",
+        "KPI Tracking & Root Cause Analysis"
       ],
-      "ctaText": "View Studio Work"
+      "ctaText": "Get In Touch"
     },
     {
-      "badge": "Side Project",
+      "badge": "Machine Learning",
       "badgeColor": "#10b981",
       "cardAccent": "#10b981",
       "glowColor": "rgba(16, 185, 129, 0.15)",
       "iconBg": "rgba(16, 185, 129, 0.1)",
       "iconBorder": "rgba(16, 185, 129, 0.2)",
-      "iconType": "server",
-      "name": "YourProject.io",
-      "url": "https://yourproject.io",
-      "description": "A personal project built to scratch an itch — self-hosted, self-managed, and entirely my own problem to maintain. Independent, opinionated, and shipped without a committee.",
+      "iconType": "cpu-chip",
+      "name": "ML Model Development",
+      "url": "mailto:Philconrad24@gmail.com",
+      "description": "Building and deploying machine learning models across the full lifecycle — data preparation, feature engineering, model training, evaluation, and deployment. Focused on delivering reliable, production-ready solutions.",
       "features": [
-        "Self-Hosted & Fully Independent",
-        "Iterating in Public",
-        "Built for One Person: Me"
+        "Predictive Modeling & Classification",
+        "Feature Engineering & Data Preparation",
+        "Model Evaluation & Performance Tuning"
       ],
-      "ctaText": "Check It Out"
+      "ctaText": "Start a Project"
     }
   ]
 }
