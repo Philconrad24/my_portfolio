@@ -2,7 +2,7 @@
 
 Personal portfolio website built with Astro, showcasing data science projects, machine learning work, Power BI dashboards, and AI evaluation experience.
 
-**Live site:** [philconrad.vercel.app](https://philconrad.vercel.app)
+**Live site:** [philconrad.xyz](https://philconrad.xyz)
 
 ---
 
@@ -36,7 +36,7 @@ npm run build   # builds to ./dist/
 Set environment variables in a `.env` file in the project root:
 
 ```env
-SITE_URL=https://philconrad.vercel.app
+SITE_URL=https://philconrad.xyz
 GITHUB_USER=Philconrad24
 GITHUB_TOKEN=ghp_xxxx
 ```
