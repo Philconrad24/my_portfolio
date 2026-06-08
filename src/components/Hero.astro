@@ -14,7 +14,7 @@ import { withBase } from '../lib/assetPath';
 
 const augmented = await augmentProjectsWithImages(projectsData as ProjectEntry[]);
 // Only projects with a GitHub-fetched preview image appear in the hero slider.
-const featuredProjects = augmented.filter((p) => p.featuredImage);
+const featuredProjects = augmented.filter((p) => p.featured);
 // Split "Frontend & Backend" so the "&" can be styled with a different colour in the template.
 const heroParts = personalData.heroRole.split(' & ');
 ---
