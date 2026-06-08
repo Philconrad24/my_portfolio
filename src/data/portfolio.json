@@ -1,5 +1,16 @@
 [
   {
+    "title": "Starbucks Customer Segmentation — RFM & K-Means",
+    "category": "Machine Learning",
+    "description": "Segmented 14,492 Starbucks rewards members into four behavioural groups using RFM analysis and K-Means clustering. Premium Champions (33.8% of customers) account for 62% of $62.5M estimated 3-year revenue. Includes CLV estimates, radar charts, and actionable business recommendations per segment.",
+    "images": [
+      "/images/portfolio/starbucks-1.png",
+      "/images/portfolio/starbucks-2.png",
+      "/images/portfolio/starbucks-3.png"
+    ],
+    "slides": ["Cluster Radar Chart", "CLV by Segment", "Offer Response Rate by Segment"]
+  },
+  {
     "title": "Construction Analytics — Taison Group Ltd",
     "category": "Business Intelligence",
     "description": "Analyzed project construction data from 15+ active sites using SQL and Python, tracking budgets, timelines, and resource allocations. Automated Power BI dashboards for materials inventory, labor productivity, and equipment utilization. Monitored KPIs daily and delivered root cause analysis to prevent budget overruns.",
